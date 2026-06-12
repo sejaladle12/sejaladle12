@@ -139,6 +139,9 @@ https://github.com/sejaladle12/netflix_sql_project
 - CRUD Operations
 - React Router
 
+Repository:
+https://github.com/sejaladle12/Product-Management-App
+
 ---
 
 ### ⏰ Digital Clock
