@@ -143,7 +143,7 @@ Data Analyst • Python Developer • React Developer • Power BI Enthusiast
 - Real Time Clock
 
 Repository:
-https://github.com/sejaladle12/digital-clock
+https://github.com/sejaladle12/Digital-Clock-Web-App
 
 ---
 
