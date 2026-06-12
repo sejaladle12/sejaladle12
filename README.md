@@ -148,25 +148,9 @@ https://github.com/sejaladle12/random-quote-generator
 
 ## 🏆 Certifications
 
-- Python Developer Internship – Softtronix
+- Full Stack Developer Training – Softtronix 
 
-- Python Full Stack Development Training – Softtronix
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sejaladle12&show_icons=true&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sejaladle12&theme=tokyonight"/>
-
-</p>
+- Front End Web Desigining - Codemate
 
 ---
 
@@ -175,26 +159,6 @@ https://github.com/sejaladle12/random-quote-generator
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejaladle12&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sejaladle12&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sejaladle12&theme=tokyo-night"/>
 
 </p>
 
