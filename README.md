@@ -8,6 +8,11 @@ Data Analyst • Python Developer • React Learner • Power BI Enthusiast
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;Power+BI+Enthusiast;React+Developer;Always+Learning+New+Technologies" />
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sejaladle12&label=Profile%20Views&color=7F5AF0&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/sejaladle12?label=Followers&style=for-the-badge&color=7F5AF0"/>
+</p>
+
 ---
 
 ## About Me
@@ -21,6 +26,7 @@ Data Analyst • Python Developer • React Learner • Power BI Enthusiast
 📈 Interested in Data-Driven Decision Making
 
 🌱 Currently Learning:
+
 - Full Stack Development
 - Advanced SQL
 - React Ecosystem
@@ -32,7 +38,7 @@ Data Analyst • Python Developer • React Learner • Power BI Enthusiast
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/sejal-adle-020b703b1/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -40,7 +46,7 @@ Data Analyst • Python Developer • React Learner • Power BI Enthusiast
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR-GITHUB">
+<a href="https://github.com/sejaladle12">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -53,7 +59,7 @@ Data Analyst • Python Developer • React Learner • Power BI Enthusiast
 ### Languages
 
 ![Python](https://skillicons.dev/icons?i=python)
-![SQL](https://skillicons.dev/icons?i=mysql)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![C](https://skillicons.dev/icons?i=c)
 ![CPP](https://skillicons.dev/icons?i=cpp)
@@ -96,6 +102,8 @@ Analyzed retail transaction data using Python, SQL and Power BI.
 
 </details>
 
+---
+
 <details>
 <summary><b>Netflix Data Analysis</b></summary>
 
@@ -111,6 +119,8 @@ Performed SQL analysis on 8000+ Netflix records.
 | Outcome | Business Insights |
 
 </details>
+
+---
 
 <details>
 <summary><b>Travel Website</b></summary>
@@ -128,17 +138,41 @@ Responsive travel destination platform built using React.
 
 </details>
 
+---
+
 <details>
 <summary><b>Digital Clock</b></summary>
 
-HTML, CSS and JavaScript based real-time clock application.
+Real-time digital clock built using HTML, CSS and JavaScript.
+
+| Category | Details |
+|----------|---------|
+| Frontend | HTML, CSS |
+| Logic | JavaScript |
+| Features | Live Time Updates |
+| Type | Mini Project |
+
+Repository:
+https://github.com/sejaladle12/digital-clock
 
 </details>
+
+---
 
 <details>
 <summary><b>Random Quote Generator</b></summary>
 
-JavaScript project generating inspirational quotes dynamically.
+Dynamic quote generation application built using JavaScript.
+
+| Category | Details |
+|----------|---------|
+| Frontend | HTML, CSS |
+| Logic | JavaScript |
+| Features | Random Inspirational Quotes |
+| Type | Mini Project |
+
+Repository:
+https://github.com/sejaladle12/random-quote-generator
 
 </details>
 
@@ -156,9 +190,9 @@ JavaScript project generating inspirational quotes dynamically.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sejaladle12&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sejaladle12&theme=tokyonight"/>
 
 </p>
 
@@ -168,7 +202,7 @@ JavaScript project generating inspirational quotes dynamically.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejaladle12&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -178,7 +212,7 @@ JavaScript project generating inspirational quotes dynamically.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sejaladle12&theme=tokyo-night"/>
 
 </p>
 
@@ -210,4 +244,8 @@ Open To:
 
 <p align="center">
 "Turning Data Into Insights And Ideas Into Applications."
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile ⭐
 </p>
