@@ -113,6 +113,9 @@ Data Analyst • Python Developer • React Developer • Power BI Enthusiast
 - Customer Segmentation
 - Business Insights
 
+Repository:
+https://github.com/sejaladle12/Customer-Purchase-Behavior-Analysis
+
 ---
 
 ### 🎬 Netflix Data Analysis
@@ -122,6 +125,9 @@ Data Analyst • Python Developer • React Developer • Power BI Enthusiast
 - Data Exploration
 - Genre Analysis
 - Country Analysis
+
+Repository:
+https://github.com/sejaladle12/netflix_sql_project
 
 ---
 
