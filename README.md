@@ -18,7 +18,7 @@ Data Analyst • Python Developer • React Developer • Power BI Enthusiast
 </p>
 
 <img align="right" alt="Coding" width="400"
-src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
 
