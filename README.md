@@ -17,17 +17,13 @@ Data Analyst • Python Developer • React Developer • Power BI Enthusiast
 <img src="https://img.shields.io/github/followers/sejaladle12?label=Followers&style=for-the-badge&color=7F5AF0"/>
 </p>
 
-<p align="right">
-  <img
-    src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"
-    width="400"
-    style="margin-top:100px;"
-  />
-</p>
-
 ---
-
 ## 👩‍💻 About Me
+
+<table>
+<tr>
+
+<td width="60%">
 
 - 🎓 Electronics & Communication Engineering Graduate
 
@@ -44,6 +40,17 @@ Data Analyst • Python Developer • React Developer • Power BI Enthusiast
 - 📫 Reach Me: **sejaladle@gmail.com**
 
 - ⚡ Fun Fact: I love turning raw data into meaningful insights
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
