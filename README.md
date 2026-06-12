@@ -17,9 +17,13 @@ Data Analyst • Python Developer • React Developer • Power BI Enthusiast
 <img src="https://img.shields.io/github/followers/sejaladle12?label=Followers&style=for-the-badge&color=7F5AF0"/>
 </p>
 
-
-<img align="right" alt="Girl Coding" width="400"
-src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
+<img
+  align="right"
+  alt="Coding"
+  width="400"
+  src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"
+  style="margin-top: 120px;"
+/>
 
 ---
 
