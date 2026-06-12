@@ -1,11 +1,15 @@
-# <h1 align="center">Hi 👋, I'm Sejal Adle</h1>
-
 <p align="center">
-Data Analyst • Python Developer • React Learner • Power BI Enthusiast
+<img src="https://user-images.githubusercontent.com/74038190/212284100-3f6d74b4-f9b3-4a93-a7fb-1c8d3d4c8d31.gif" width="100%">
 </p>
 
+<h1 align="center">Hi 👋, I'm Sejal Adle</h1>
+
+<h3 align="center">
+Data Analyst • Python Developer • React Developer • Power BI Enthusiast
+</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;Power+BI+Enthusiast;React+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=Data+Analyst;Python+Developer;Power+BI+Enthusiast;React+Developer;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
@@ -13,30 +17,33 @@ Data Analyst • Python Developer • React Learner • Power BI Enthusiast
 <img src="https://img.shields.io/github/followers/sejaladle12?label=Followers&style=for-the-badge&color=7F5AF0"/>
 </p>
 
----
-
-## About Me
-
-🎓 Electronics & Communication Engineering Graduate
-
-📊 Passionate about Data Analytics and Visualization
-
-💻 Skilled in Python, SQL, Power BI, Excel, React
-
-📈 Interested in Data-Driven Decision Making
-
-🌱 Currently Learning:
-
-- Full Stack Development
-- Advanced SQL
-- React Ecosystem
-- Data Engineering Fundamentals
+<img align="right" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
 
-## Connect With Me
+## 👩‍💻 About Me
 
-<p align="center">
+- 🎓 Electronics & Communication Engineering Graduate
+
+- 📊 Passionate about Data Analytics & Visualization
+
+- 💻 Skilled in Python, SQL, Power BI, Excel and React
+
+- 📈 Interested in Data Driven Decision Making
+
+- 🌱 Currently Learning Full Stack Development
+
+- 🚀 Building Projects in Analytics and Web Development
+
+- 📫 Reach Me: **sejaladle@gmail.com**
+
+- ⚡ Fun Fact: I love turning raw data into meaningful insights
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
 
 <a href="https://www.linkedin.com/in/sejal-adle-020b703b1/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
@@ -54,143 +61,108 @@ Data Analyst • Python Developer • React Learner • Power BI Enthusiast
 
 ---
 
-## Tech Stack
+## 🚀 Languages & Tools
 
-### Languages
+<p align="left">
 
-![Python](https://skillicons.dev/icons?i=python)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![C](https://skillicons.dev/icons?i=c)
-![CPP](https://skillicons.dev/icons?i=cpp)
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
 
-### Frontend
-
-![React](https://skillicons.dev/icons?i=react)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-
-### Databases
-
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-
-### Tools
-
-![Git](https://skillicons.dev/icons?i=git)
-![Github](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+</p>
 
 ---
 
-## Featured Projects
+## 📌 Featured Projects
 
-<details>
-<summary><b>Customer Purchase Behavior Analysis</b></summary>
+### ✈️ Travel Website
 
-### Overview
-
-Analyzed retail transaction data using Python, SQL and Power BI.
-
-| Category | Details |
-|-----------|----------|
-| Tools | Python, SQL, Power BI |
-| Analysis | Customer Segmentation |
-| Dashboard | Interactive KPI Dashboard |
-| Insights | Customer Trends & Sales Analysis |
-
-</details>
+- React.js
+- Tailwind CSS
+- Responsive Design
+- Travel Stories
+- Destination Guides
 
 ---
 
-<details>
-<summary><b>Netflix Data Analysis</b></summary>
+### 📊 Customer Purchase Behavior Analysis
 
-### Overview
-
-Performed SQL analysis on 8000+ Netflix records.
-
-| Category | Details |
-|-----------|----------|
-| Database | SQL |
-| Records | 8000+ |
-| Analysis | Ratings, Countries, Genres |
-| Outcome | Business Insights |
-
-</details>
+- Python
+- SQL
+- Power BI
+- Customer Segmentation
+- Business Insights
 
 ---
 
-<details>
-<summary><b>Travel Website</b></summary>
+### 🎬 Netflix Data Analysis
 
-### Overview
-
-Responsive travel destination platform built using React.
-
-| Category | Details |
-|-----------|----------|
-| Frontend | React |
-| Styling | Tailwind CSS |
-| Features | Destinations, Food Guides, Travel Stories |
-| Status | Ongoing |
-
-</details>
+- SQL
+- Data Cleaning
+- Data Exploration
+- Genre Analysis
+- Country Analysis
 
 ---
 
-<details>
-<summary><b>Digital Clock</b></summary>
+### 🛒 Product Management App
 
-Real-time digital clock built using HTML, CSS and JavaScript.
+- React.js
+- Axios
+- JSON Server
+- CRUD Operations
+- React Router
 
-| Category | Details |
-|----------|---------|
-| Frontend | HTML, CSS |
-| Logic | JavaScript |
-| Features | Live Time Updates |
-| Type | Mini Project |
+---
+
+### ⏰ Digital Clock
+
+- HTML
+- CSS
+- JavaScript
+- Real Time Clock
 
 Repository:
 https://github.com/sejaladle12/digital-clock
 
-</details>
-
 ---
 
-<details>
-<summary><b>Random Quote Generator</b></summary>
+### 💡 Random Quote Generator
 
-Dynamic quote generation application built using JavaScript.
-
-| Category | Details |
-|----------|---------|
-| Frontend | HTML, CSS |
-| Logic | JavaScript |
-| Features | Random Inspirational Quotes |
-| Type | Mini Project |
+- HTML
+- CSS
+- JavaScript
+- Dynamic Quotes
 
 Repository:
 https://github.com/sejaladle12/random-quote-generator
 
-</details>
+---
+
+## 🏆 Certifications
+
+- Python Developer Internship – Softtronix
+
+- Python Full Stack Development Training – Softtronix
 
 ---
 
-## Certifications
-
-🏆 Python Developer Intern – Softtronix
-
-🏆 Python Full Stack Development Training – Softtronix
-
----
-
-## GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sejaladle12&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sejaladle12&theme=tokyonight"/>
 
@@ -198,7 +170,7 @@ https://github.com/sejaladle12/random-quote-generator
 
 ---
 
-## Most Used Languages
+## 💻 Most Used Languages
 
 <p align="center">
 
@@ -208,7 +180,17 @@ https://github.com/sejaladle12/random-quote-generator
 
 ---
 
-## Contribution Graph
+## 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sejaladle12&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+## 📊 Contribution Graph
 
 <p align="center">
 
@@ -218,17 +200,18 @@ https://github.com/sejaladle12/random-quote-generator
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
 ```yaml
 Learning:
-  - React
+  - React Ecosystem
   - Advanced SQL
   - Power BI
 
 Building:
   - Travel Website
   - Data Analytics Portfolio
+  - React Projects
 
 Exploring:
   - Data Engineering
@@ -242,10 +225,22 @@ Open To:
 
 ---
 
+## 📬 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/sejal-adle-020b703b1/
+- GitHub: https://github.com/sejaladle12
+- Email: sejaladle@gmail.com
+
+---
+
 <p align="center">
-"Turning Data Into Insights And Ideas Into Applications."
+
+⭐ Turning Data Into Insights And Ideas Into Applications ⭐
+
 </p>
 
 <p align="center">
-⭐ Thanks for visiting my profile ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=120&section=footer"/>
+
 </p>
